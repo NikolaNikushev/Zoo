@@ -1,0 +1,20 @@
+Instructions:
+1)Enter input into input.txt in input folder
+2)Run
+3)Read output in output.txt in output folder or in the Console
+
+There is an OOP system of animals
+All classes are the in the package animals
+Animal - 3 from there : Mammal, Reptile, Fish
+Mammals are: Dolphin, Dog, Lion
+Reptile are: Snake, Lizard, Turtle
+Fish are: Trout and Shark
+When creating one of the sub-classes of Mammals/Reptiles/Fish
+ they are appointed with a predator boolean and biological sign which is the morphological  sign in the table
+ 
+ The code is executed in the class Main in the "default package".
+ In main there are is one input from file and 2 outputs:
+ 1 output in file
+ 1 output in console
+ There are some methods to work with the data that is given with input.
+ There is a method for each task.

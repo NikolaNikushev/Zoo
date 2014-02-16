@@ -1,0 +1,16 @@
+Task1:
+Predators are more than the others? false
+Task2:
+The oldest animal is: Костенурка1
+Task3:
+The youngest animals are: 
+Пъстърва4, Куче1, Пъстърва5, Пъстърва6, Пъстърва3, Костенурка1
+Task4:
+Reptiles have the largest sum in age: 299
+Task5:
+Land have the smallest sum in age: 138
+Task6:
+Water have the biggest sum: 12
+Task7:
+Fish have the smallest sum: 8
+Their names are: Акула1, Пъстърва4, Пъстърва5, Пъстърва6, Акула2, Пъстърва3, Пъстърва2, Пъстърва1
